@@ -1,0 +1,5 @@
+.idea
+.sass-cache
+styles/sass/.sass-csche
+node_modules
+dist
