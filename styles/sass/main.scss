@@ -1,0 +1,19 @@
+*,*:before,*:after{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Maven Pro', Roboto;
+
+}
+html{
+  // font-size: 10px;
+  font-size: 62.5%;
+  //@include Large_res{
+  //  font-size: 52.5%;
+  //}
+  //@include XXL_res{
+  //  font-size: 42.5%;
+  //}
+}
