@@ -1,0 +1,74 @@
+//
+//$purple: #4f4f6f;
+//$bright_purple: #6e45e2;
+//$gray: #9fa4af;
+//
+//@mixin subtitle_lines{
+//  content:'';
+//  width: 20px;
+//  height: 1px;
+//  display: inline-block;
+//  vertical-align: middle;
+//  margin: 0 30px 3px 30px;
+//}
+//
+//
+//@mixin get_started_button{
+//  text-transform: uppercase;
+//  border: 1px solid #fff !important;
+//  @include border-radius(25px);
+//  padding: 15px 30px;
+//  font-size: 1.2rem;
+//  font-weight: 500;
+//  cursor: pointer;
+//  transition: all .3s;
+//  &:hover{
+//    color: $bright_purple;
+//    background-color: #fff;
+//    font-weight: 500;
+//    border: 1px solid rgba(110, 69, 226, 0);
+//  }
+//}
+//
+//
+//// @mixin XS_res {
+//// 	@media (min-width: #{0px}) and (max-width: #{360px}) {
+//// 		@content;
+//// 	}
+//// }
+//// @mixin S_res {
+//// 	@media (min-width: #{361px}) and (max-width: #{480px}) {
+//// 		@content;
+//// 	}
+//// }
+//// @mixin M_res {
+//// 	@media (min-width: #{481px}) and (max-width: #{720px}) {
+//// 		@content;
+//// 	}
+//// }
+//// @mixin L_res {
+//// 	@media (min-width: #{721px}) and (max-width: #{1024px}) {
+//// 		@content;
+//// 	}
+//// }
+//// @mixin XL_res {
+//// 	@media (min-width: #{1025px}) and (max-width: #{1280px}) {
+//// 		@content;
+//// 	}
+//// }
+//
+//@mixin XXL_res {
+//  @media (min-width: #{1281px}) and (max-width: #{1440px}) {
+//    @content;
+//  }
+//}
+//@mixin Large_res {
+//  @media (min-width: #{1441px}) and (max-width: #{1919px}) {
+//    @content;
+//  }
+//}
+//@mixin Wide_res {
+//  @media (min-width: #{1920px}) {
+//    @content;
+//  }
+//}
